@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJkZWZpcHVsc2UuYmFzZWFwcC5jb20ifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "next",
+    "name": "DeFiPulse Base",
+    "homeUrl": "https://defipulse.baseapp.com",
+    "iconUrl": "https://defipulse.baseapp.com/icon.png",
+    "splashImageUrl": "https://defipulse.baseapp.com/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://defipulse.baseapp.com/api/farcaster-webhook",
+    "subtitle": "Discover DeFi opportunities across chains",
+    "description": "A comprehensive platform for discovering and managing DeFi opportunities, with a focus on cross-chain aggregation and social-driven insights.",
+    "screenshotUrls": [
+      "https://defipulse.baseapp.com/screenshot1.png",
+      "https://defipulse.baseapp.com/screenshot2.png",
+      "https://defipulse.baseapp.com/screenshot3.png"
+    ],
+    "primaryCategory": "finance",
+    "tags": ["defi", "yield", "aggregator", "social", "base"],
+    "heroImageUrl": "https://defipulse.baseapp.com/hero.png",
+    "tagline": "Maximize your DeFi returns",
+    "ogTitle": "DeFiPulse Base - DeFi Aggregator",
+    "ogDescription": "Discover, aggregate, and socialize DeFi opportunities across chains on Base",
+    "ogImageUrl": "https://defipulse.baseapp.com/og-image.png"
+  }
+}
