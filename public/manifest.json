@@ -1,0 +1,14 @@
+{
+  "name": "DeFiPulse Base",
+  "description": "DeFiPulse Base is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://c17ced7f-1a35-49d7-8675-64f0780d6b1e.vercel.app",
+  "properties": {
+    "app": {
+      "name": "DeFiPulse Base",
+      "description": "DeFiPulse Base is a Base Mini App built with Zara.",
+      "url": "https://c17ced7f-1a35-49d7-8675-64f0780d6b1e.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}

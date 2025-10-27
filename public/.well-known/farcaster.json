@@ -7,11 +7,11 @@
   "frame": {
     "version": "next",
     "name": "DeFiPulse Base",
-    "homeUrl": "https://defipulse.baseapp.com",
+    "homeUrl": "https://app-780d6b1e-84nc.vercel.app",
     "iconUrl": "https://defipulse.baseapp.com/icon.png",
     "splashImageUrl": "https://defipulse.baseapp.com/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://defipulse.baseapp.com/api/farcaster-webhook",
+    "webhookUrl": "https://app-780d6b1e-84nc.vercel.app/api/webhook",
     "subtitle": "Discover DeFi opportunities across chains",
     "description": "A comprehensive platform for discovering and managing DeFi opportunities, with a focus on cross-chain aggregation and social-driven insights.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://defipulse.baseapp.com/screenshot3.png"
     ],
     "primaryCategory": "finance",
-    "tags": ["defi", "yield", "aggregator", "social", "base"],
+    "tags": [
+      "defi",
+      "yield",
+      "aggregator",
+      "social",
+      "base"
+    ],
     "heroImageUrl": "https://defipulse.baseapp.com/hero.png",
     "tagline": "Maximize your DeFi returns",
     "ogTitle": "DeFiPulse Base - DeFi Aggregator",
